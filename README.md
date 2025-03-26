@@ -1,7 +1,7 @@
 <h1>Strona dla Helloheni</h1>
 
 <h2>Info</h2>
-Firma, dla której mam stworzyć stronę internetową to helloheni; firma ta ma stworzone własne produkty, firma powstała na Etsy, a teraz chce się rozwijać, posiadając własną stronę internetową i reklamując swoje produkty na stronie internetowej zamiast na Etsy. Firma pragneła strony internetowej, która pomoże rozszerzyć działalność i pozwoli na sprzedaż produktów, do których dostałem zdjęcia w briefie zlecenia. 
+Firma, dla której mam stworzyć stronę internetową to helloheni; firma ta ma stworzone własne produkty, firma powstała na Etsy, a teraz chce się rozwijać, posiadając własną stronę internetową i reklamując swoje produkty na stronie internetowej zamiast na Etsy. Firma pragneła strony internetowej, która pomoże rozszerzyć działalność i pozwoli na sprzedaż produktów, do których dostałem zdjęcia w briefie zlecenia. By stworzyć tę strone, zbudowałem baze strony w języku HTML
 <br />
 
 
